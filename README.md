@@ -16,9 +16,7 @@ A minimal, demo-friendly **Digital Twin**: a simulated **motor** streams live te
 
 ## 🖼️ Screenshot
 
-> Place your screenshot at `docs/screenshot.png` and uncomment below.
-
-<!-- ![Dashboard](docs/screenshot.png) -->
+![Dashboard](docs/screenshot.png)
 
 ---
 
